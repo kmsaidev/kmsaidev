@@ -1,7 +1,5 @@
-### Hello World 👋
-<p>
-  <em>
-    현재 동덕여자대학교 <b>컴퓨터학과</b>💻에 재학중입니다 <br>
-    <b>앱 개발</b>📱과 <b>서버 개발</b>🖥을 공부 중입니다. 
-  </em>  
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20KimMiso%20%20&height=200&fontSize=90&fontColor=ffffff)<br>
+***Hello World 👋***<br>
+현재 동덕여자대학교 **컴퓨터학과💻** 에 재학중입니다 <br>
+**앱 개발📱**과 **서버 개발🖥**을 공부 중입니다. 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
