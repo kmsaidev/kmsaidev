@@ -5,4 +5,5 @@
     <b>앱 개발</b>📱과 <b>서버 개발</b>🖥을 공부 중입니다. 
   </em>  
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsaidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsaidev&layout=compact)<br>
+![kmsaidev's github stats](https://github-readme-stats.vercel.app/api?username=kmsaidev&show_icons=true)
