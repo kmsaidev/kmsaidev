@@ -1,7 +1,7 @@
 ## 💬 About me
 - 🌱 I’m interested in back-end development based on Spring Framework.
 - ❤️ I love to code and study algorithm.
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 <div align=center>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 
-#### 🛠️ Github Stats
+
+## 🌏 Github Stats
 ![kmsaidev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsaidev&show_icons=true&theme=dracula)  
-#### 🎖️ Ranking
+## 🎖️ Ranking
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dutlsalth9811)](https://solved.ac/dutlsalth9811)
